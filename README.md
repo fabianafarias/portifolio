@@ -1,3 +1,3 @@
-# site-portifolio
+## site-portifolio
 
-Site construído em Javascript, com uso de sass e foundation.
+### Portfolio made with Javascript, Sass and Foundation.
